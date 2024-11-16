@@ -36,9 +36,9 @@ To run this project locally, you need to have Node.js, npm, and MongoDB installe
 2. Navigate to the project directory using `cd nextjs-blog`
 3. Install the dependencies using `npm install`
 4. Create a `.env` file in the root directory and add the following variables:
-    - `MONGO_URI`: The connection string to your MongoDB database
-    - `JWT_SECRET`: The secret key for JSON Web Token authentication
-    - `CLOUDINARY_URL`: The connection string to your Cloudinary account for image uploading
+   - `MONGO_URI`: The connection string to your MongoDB database
+   - `JWT_SECRET`: The secret key for JSON Web Token authentication
+   - `CLOUDINARY_URL`: The connection string to your Cloudinary account for image uploading
 5. Start the development server using `npm run dev`
 6. Open your browser and go to `http://localhost:3000` to view the app
 
@@ -106,11 +106,3 @@ This project is open for contributions. If you want to contribute to this projec
 - Commit and push your changes to GitHub
 - Test your code before submitting a pull request.
 - Respect the code of conduct and be kind to other contributors.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback about this project, feel free to contact me at [tehseen.type@gmail.com](mailto:tehseen.type@gmail.com).
